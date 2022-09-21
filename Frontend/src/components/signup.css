@@ -1,0 +1,50 @@
+.signup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 91vh;
+  background: url("../assets/flight1.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 120px;
+}
+
+.form1 {
+  background-color: rgba(36, 3, 5, 0.651);
+  padding: 10px 50px;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+h1 {
+  color: rgb(243, 246, 247);
+  text-align: center;
+  padding-bottom: 20px;
+  opacity: 1;
+}
+
+img {
+  padding-top: 100px;
+  width: 80px;
+  height: 80px;
+  border-radius: 0%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 40px);
+}
+
+button {
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  border: none;
+  background-color: rgb(218, 33, 13);
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 22px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  opacity: 1;
+}

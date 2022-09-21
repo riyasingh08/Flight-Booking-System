@@ -1,0 +1,66 @@
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding-left: 800px;
+  padding-bottom: 200px;
+  height: 91vh;
+  background: url("../assets/newloggin.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+form {
+  background-color: rgba(87, 28, 32, 0.39);
+  padding: 12px 55px;
+  border-radius: 10px;
+  margin-top: 150px;
+  /*opacity: 1;*/
+}
+
+h3 {
+  font-size: 50px;
+  color: rgb(255, 255, 247);
+  text-align: center;
+  padding-bottom: 20px;
+  padding-left: 100px;
+  opacity: 1;
+}
+
+img {
+  padding-top: 100px;
+  width: 80px;
+  height: 80px;
+  border-radius: 0%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 40px);
+}
+
+button5 {
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  border: none;
+  background-color: rgba(245, 29, 21, 0.877);
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 22px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  opacity: 1;
+}
+a {
+  color: beige;
+}
+a:hover {
+  color: rgb(1, 5, 63);
+}
+.form5 {
+  background-color: rgba(36, 3, 5, 0.717);
+  padding: 10px 50px;
+  border-radius: 10px;
+  /*opacity: 1;*/
+}

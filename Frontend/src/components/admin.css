@@ -1,0 +1,151 @@
+.admin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: url("../assets/cloud.jfif");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 120px;
+}
+.profilepg {
+  align-items: center;
+  justify-content: center;
+  height: 91vh;
+  background-image: url("../assets/newmainadmin.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 120px;
+}
+h4 {
+  font-size: 50px;
+  color: rgb(23, 23, 18);
+  text-align: center;
+  padding-bottom: 10px;
+  padding-left: 100px;
+  opacity: 1;
+}
+p4 {
+  font-size: 30px;
+  color: rgb(17, 17, 16);
+  text-align: center;
+  /* background-image: url("../assets/fly.jpg"); */
+}
+/*.inputpg {
+  padding: 15px;
+  margin: 10px 0px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  opacity: 1;
+}*/
+.button6 {
+  width: 180px;
+  height: 47px;
+  padding: 10px;
+  background-color: rgba(245, 29, 21, 0.877);
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: Arial;
+}
+.button7 {
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  border: none;
+  background-color: rgba(65, 14, 206, 0.877);
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 22px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  opacity: 1;
+}
+.button8 {
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  border: none;
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 22px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  opacity: 1;
+}
+.btn3 {
+  width: 180px;
+  height: 47px;
+  padding: 10px;
+  background-color: rgb(149, 184, 211);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: Arial;
+}
+.btn1 {
+  width: 120px;
+  height: 47px;
+  padding: 10px;
+  background-color: rgba(65, 14, 206, 0.877);
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: Arial;
+  margin-right: 30px;
+}
+.btn2 {
+  width: 120px;
+  height: 47px;
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: Arial;
+}
+.ab {
+  background-color: rgb(189, 8, 114);
+  color: beige;
+}
+.form3 {
+  background-color: rgba(176, 145, 132, 0.466);
+  padding: 10px 50px;
+
+  border-radius: 10px;
+  width: 500px;
+  margin-top: 50px;
+  opacity: 1;
+ 
+}
+
+.addfly {
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 90vh;
+  background-image: url("../assets/AdminNew02.jfif");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 120px;
+}
+
+.fly {
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 91vh;
+  background-image: url("../assets/fly.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 120px;
+}
