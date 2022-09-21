@@ -1,0 +1,11 @@
+paypal:
+  client:
+    id: *******
+    secret: *******
+  mode: sandbox
+server:
+  port: 9090
+spring:
+  application:
+    name: payment-gateway-service
+  
